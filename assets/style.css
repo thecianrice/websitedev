@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+/*
+  COLORS:
+    #FFE400 - Yellow,
+    #19DEFF - Blue,
+    #CC1469 - Magenta 1,
+    #B20957 - Magenta 2
+*/
+
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #FFE400;
+}
+
+html,
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #CC1469;
+  color: #FFE400;
+}
+
+.cian-nav {
+  background: #B20957;
+}
